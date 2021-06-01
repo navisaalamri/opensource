@@ -14,3 +14,8 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+No Presensi: 15
+Nim: 531419057
+Nama: Navisa Alamri
+URL Repository: https://github.com/navisaalamri/navisaalamri-TOS-GITHUB1
