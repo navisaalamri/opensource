@@ -63,4 +63,7 @@ Nim: 531419072
 Nama: Sitti Sahana Fatimah Hasyim
 URL Repository: https://github.com/SahanaHasyim/HTML-Registrasi
 
-
+No Presensi: 15
+Nim: 531419057
+Nama: Navisa Alamri
+URL Repository: https://github.com/navisaalamri?tab=repositories
